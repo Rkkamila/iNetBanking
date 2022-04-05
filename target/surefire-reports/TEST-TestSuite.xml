@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="3.728" tests="5" errors="0" skipped="0" failures="4">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.13"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\"/>
+    <property name="USERDOMAIN" value="WORKGROUP"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="11.0.13"/>
+    <property name="JOB_NAME" value="iNetBanking_Maven"/>
+    <property name="COMPUTERNAME" value="LAPTOP-TKMEP63N"/>
+    <property name="Mavan_Home" value="C:\Mavan\apache-maven-3.8.4"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="user.name" value="LAPTOP-TKMEP63N$"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/iNetBanking_Maven/3/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-iNetBanking_Maven-3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Mavan\apache-maven-3.8.4\ C:\ProgramData\Jenkins\war\WEB-INF\lib\remoting-4.12.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 65458"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="07c1d92753c3c52e"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-11.0.13\/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander;;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\GuptaEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\DelphiEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\PBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\VBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\DotNetHooking;;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Mavan\apache-maven-3.8.4\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Java\jdk-11.0.13\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
+    <property name="TRICENTIS_DEX_AGENT_HOME" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\DistributedExecution\"/>
+    <property name="WINSW_SERVICE_ID" value="jenkins"/>
+    <property name="BASE" value="C:\Program Files\Jenkins"/>
+    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
+    <property name="APPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="TBOX_HOME" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\TBox\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/iNetBanking_Maven/3/"/>
+    <property name="TESSDATA_PREFIX" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\ocr"/>
+    <property name="OSV_EnableTracking" value="true"/>
+    <property name="M2_HOME" value="C:\Mavan\apache-maven-3.8.4\"/>
+    <property name="TRICENTIS_SEARCH" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander;;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\GuptaEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\DelphiEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\PBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\VBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\DotNetHooking;"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="07c1d92753c3c52e"/>
+    <property name="WORKSPACE_TMP" value="C:\ProgramData\Jenkins\.jenkins\workspace\iNetBanking_Maven@tmp"/>
+    <property name="MAVEN_HOME" value="C:\Mavan\apache-maven-3.8.4\"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="COMMANDER_HOME" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="TRICENTIS_ALLUSERS_APPDATA" value="C:\ProgramData\TRICENTIS\Tosca Testsuite\7.0.0"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven3.interceptor" value="C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Mavan\apache-maven-3.8.4\/bin;C:\Program Files\Java\jdk-11.0.13\/bin;C:\Program Files\Java\jdk-11.0.13\/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander;;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\GuptaEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\DelphiEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\PBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\VBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic\dll\DotNetHooking;;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Mavan\apache-maven-3.8.4\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Java\jdk-11.0.13\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe"/>
+    <property name="POM_GROUPID" value="iNetBanking"/>
+    <property name="POM_ARTIFACTID" value="iNetBanking"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/iNetBanking_Maven/"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/iNetBanking_Maven/3/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\ProgramData\Jenkins\.jenkins"/>
+    <property name="BUILD_ID" value="3"/>
+    <property name="TEMP" value="C:\WINDOWS\TEMP"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.13\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="TRICENTIS_LICENSING_HOME" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Licensing"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8c01"/>
+    <property name="TRICENTIS_PROJECTS" value="C:\Tosca_Projects\"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\ProgramData\Jenkins\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Mavan\apache-maven-3.8.4\/bin"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/iNetBanking_Maven/3/display/redirect?page=artifacts"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\WINDOWS\system32\config\systemprofile"/>
+    <property name="TRICENTIS_HOME" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Classic"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/iNetBanking_Maven/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
+    <property name="USERNAME" value="LAPTOP-TKMEP63N$"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\eclipse-workspace\GitDemo\iNetBanking"/>
+    <property name="maven.conf" value="C:\Mavan\apache-maven-3.8.4\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\WINDOWS\TEMP"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="11.0.13+10-LTS-370"/>
+    <property name="java.class.path" value="C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Mavan\apache-maven-3.8.4\boot\plexus-classworlds-2.6.0.jar;C:\Mavan\apache-maven-3.8.4/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="Java_Home" value="C:\Program Files\Java\jdk-11.0.13\"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\ProgramData\Jenkins\.jenkins\workspace\iNetBanking_Maven"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/iNetBanking_Maven/3/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SERVICE_ID" value="jenkins"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="11.0.13+10-LTS-370"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="ToscaDataIntegrity_Home" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Data Integrity\"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-11.0.13\/bin"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Mavan\apache-maven-3.8.4"/>
+    <property name="JOB_BASE_NAME" value="iNetBanking_Maven"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="POM_DISPLAYNAME" value="iNetBanking"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase name="loginTest" classname="com.inetbanking.testcases.TC_001_LoginTest" time="1.093">
+    <failure message="unexpected alert open: {Alert text : User or Password is not valid}&#10;  (Session info: chrome=99.0.4844.84): User or Password is not valid&#10;Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;&#10;System info: host: &apos;LAPTOP-TKMEP63N&apos;, ip: &apos;192.168.1.100&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.13&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [145df44634406eca245297134bc1a1d2, getTitle {}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\WINDOWS\TEMP\scoped_dir3...}, goog:chromeOptions: {debuggerAddress: localhost:65495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65495/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 145df44634406eca245297134bc1a1d2" type="org.openqa.selenium.UnhandledAlertException">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=99.0.4844.84): User or Password is not valid
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-TKMEP63N', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [145df44634406eca245297134bc1a1d2, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\WINDOWS\TEMP\scoped_dir3...}, goog:chromeOptions: {debuggerAddress: localhost:65495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65495/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 145df44634406eca245297134bc1a1d2
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:333)
+	at com.inetbanking.testcases.TC_001_LoginTest.loginTest(TC_001_LoginTest.java:31)
+</failure>
+    <system-out><![CDATA[ INFO [main] (WebDriverManager.java:966)- Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+ INFO [main] (WebDriverManager.java:1021)- Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+ INFO [main] (BaseClass.java:52)- Chrome Driver Launched
+ INFO [main] (TC_001_LoginTest.java:16)- URL is opening
+ INFO [main] (TC_001_LoginTest.java:23)- Entered Username
+ INFO [main] (TC_001_LoginTest.java:27)- Entered Password
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 52414
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 05, 2022 12:24:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Apr 05, 2022 12:24:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 95
+Apr 05, 2022 12:24:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 95
+]]></system-err>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetbanking.testcases.TC_002_LoginDDT" time="2.635">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at com.inetbanking.testcases.TC_002_LoginDDT.loginDDT(TC_002_LoginDDT.java:29)
+</failure>
+    <system-out><![CDATA[Report SS PATH : C:\eclipse-workspace\GitDemo\iNetBanking\Screenshots\loginTest.png
+ INFO [main] (BaseClass.java:71)- Broser Closed Successfully
+ INFO [main] (WebDriverManager.java:966)- Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+ INFO [main] (WebDriverManager.java:1021)- Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+ INFO [main] (BaseClass.java:52)- Chrome Driver Launched
+ INFO [main] (TC_002_LoginDDT.java:55)- The total Num of Row :4 and Total Num of Column is: 2
+ INFO [main] (TC_002_LoginDDT.java:20)- User Name Entered as: mngr391725
+ INFO [main] (TC_002_LoginDDT.java:22)- Password Entered as: mUvYqAp
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 51646
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 05, 2022 12:24:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Apr 05, 2022 12:24:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 95
+Apr 05, 2022 12:24:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 95
+]]></system-err>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetbanking.testcases.TC_002_LoginDDT" time="2.953">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at com.inetbanking.testcases.TC_002_LoginDDT.loginDDT(TC_002_LoginDDT.java:29)
+</failure>
+    <system-out><![CDATA[Report SS PATH : C:\eclipse-workspace\GitDemo\iNetBanking\Screenshots\loginDDT.png
+ INFO [main] (TC_002_LoginDDT.java:20)- User Name Entered as: mngr393456
+ INFO [main] (TC_002_LoginDDT.java:22)- Password Entered as: UgEmap1
+]]></system-out>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetbanking.testcases.TC_002_LoginDDT" time="6.313"/>
+  <testcase name="loginDDT" classname="com.inetbanking.testcases.TC_002_LoginDDT" time="2.877">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at com.inetbanking.testcases.TC_002_LoginDDT.loginDDT(TC_002_LoginDDT.java:29)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TC_002_LoginDDT.java:20)- User Name Entered as: mngr391725
+ INFO [main] (TC_002_LoginDDT.java:22)- Password Entered as: mUvYqA1
+]]></system-out>
+  </testcase>
+</testsuite>

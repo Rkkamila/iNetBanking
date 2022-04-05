@@ -1,0 +1,9 @@
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\testcases\BaseClass.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\pageObject\AddCustomerPage.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\pageObject\LoginPage.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\utilities\Reporting.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\utilities\XLUtils.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\testcases\TC_001_LoginTest.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\testcases\TC_002_LoginDDT.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\utilities\ReadConfig.java
+C:\eclipse-workspace\GitDemo\iNetBanking\src\test\java\com\inetbanking\testcases\TC_003_AddCustomer.java

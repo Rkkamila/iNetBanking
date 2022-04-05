@@ -1,0 +1,623 @@
+2022-03-20 08:26:45,885 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 08:26:51,212 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 08:26:51,321 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 08:26:52,953 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-20 09:01:24,499 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 09:01:24,533 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 09:01:32,858 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 09:01:38,235 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 09:01:38,346 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 09:01:42,387 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-20 09:01:59,830 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 99.0.1150.46 (resolved driver for Edge 99)
+2022-03-20 09:01:59,878 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2022-03-20 09:02:21,033 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/99.0.1150.46/edgedriver_win64.zip
+2022-03-20 09:02:29,501 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file edgedriver_win64.zip
+2022-03-20 09:02:29,999 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\msedgedriver\win64\99.0.1150.46\msedgedriver.exe
+2022-03-20 09:02:45,139 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 09:02:50,509 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 09:02:50,615 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 09:02:53,195 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-20 09:04:13,839 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 99.0.1150.46 (resolved driver for Edge 99)
+2022-03-20 09:04:13,867 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\msedgedriver\win64\99.0.1150.46\msedgedriver.exe
+2022-03-20 09:04:15,551 - com.inetbanking.testcases.BaseClass -INFO - Edge Driver Launched
+2022-03-20 09:04:22,809 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 09:04:28,188 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 09:04:28,273 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 09:04:30,504 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-20 09:54:29,148 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 09:54:29,175 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 09:54:30,797 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 09:54:40,818 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 09:54:46,182 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 09:54:46,289 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 09:54:46,940 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 11:57:42,747 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 11:57:42,773 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 11:57:44,788 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 11:57:49,664 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 11:57:55,008 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 11:57:55,082 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 11:57:57,576 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-20 11:57:57,883 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 12:20:52,528 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 12:20:52,557 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 12:20:54,153 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 12:21:04,597 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 12:21:09,899 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 12:21:09,999 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 12:21:17,794 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 12:26:01,419 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 12:26:01,444 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 12:26:02,917 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 12:26:07,949 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 12:26:13,301 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 12:26:13,410 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 12:26:15,696 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 12:32:32,112 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 12:32:32,139 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 12:32:33,590 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 12:32:37,926 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 12:32:43,301 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 12:32:43,405 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 12:32:46,794 - com.inetbanking.testcases.BaseClass -INFO - Screenshot Taken for Failure
+2022-03-20 12:32:47,072 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 12:34:19,354 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 12:34:19,384 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 12:34:20,787 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 12:34:25,563 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 12:34:30,913 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 12:34:31,028 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 12:34:33,684 - com.inetbanking.testcases.BaseClass -INFO - Screenshot Taken for Failure
+2022-03-20 12:34:34,005 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 13:07:26,602 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 13:07:26,629 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 13:07:28,025 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 13:07:33,470 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 13:07:38,817 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 13:07:38,931 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 13:07:41,143 - com.inetbanking.testcases.BaseClass -INFO - Screenshot Taken for Failure
+2022-03-20 13:07:41,426 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 13:13:07,063 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 13:13:07,088 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 13:13:08,563 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 13:13:12,956 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 13:13:18,299 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 13:13:18,410 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 13:13:21,150 - com.inetbanking.testcases.BaseClass -INFO - Screenshot Taken for Failure
+2022-03-20 13:13:21,382 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 13:17:02,512 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 13:17:02,536 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 13:17:03,969 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 13:17:08,875 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 13:17:14,224 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 13:17:14,352 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 13:17:16,990 - com.inetbanking.testcases.BaseClass -INFO - Screenshot Taken for Failure
+2022-03-20 13:17:17,263 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 13:18:32,863 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 13:18:32,890 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 13:18:34,319 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 13:18:38,544 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-20 13:18:43,874 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 13:18:43,983 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 13:18:46,798 - com.inetbanking.testcases.BaseClass -INFO - Screenshot Taken for Failure
+2022-03-20 13:18:47,080 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 15:52:26,113 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 15:52:26,165 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 15:52:27,884 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 15:52:42,349 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 15:53:39,751 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 15:53:39,780 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 15:53:41,243 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 15:53:54,374 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 15:54:53,860 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 15:54:53,887 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 15:54:55,359 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 15:55:07,032 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 18:51:31,736 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 18:51:31,781 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 18:51:33,316 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 18:51:40,042 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 18:56:25,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 18:56:25,636 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 18:56:27,118 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 18:56:32,234 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:09:38,379 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:09:38,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:09:39,880 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:09:45,648 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:13:40,076 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:13:40,106 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:13:41,514 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:13:48,321 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4And Total Num of Column is: 2
+2022-03-20 19:13:48,787 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:16:09,538 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:16:09,570 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:16:11,039 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:16:18,026 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-20 19:16:18,422 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:19:58,120 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:19:58,149 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:19:59,618 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:20:07,027 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-20 19:20:07,504 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:23:49,585 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:23:49,609 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:23:51,084 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:23:57,536 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-20 19:23:58,184 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-20 19:23:58,301 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-03-20 19:24:01,403 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:24:04,219 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:24:04,401 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-03-20 19:24:06,785 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:24:06,974 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-03-20 19:24:08,996 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:24:11,934 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:24:50,731 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:24:50,758 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:24:52,193 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:24:58,451 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-20 19:24:59,115 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-20 19:24:59,197 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-03-20 19:25:04,221 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:25:08,107 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:25:08,290 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-03-20 19:25:11,110 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:25:11,254 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-03-20 19:25:13,429 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:25:16,286 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-20 19:25:16,379 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqA1
+2022-03-20 19:25:19,537 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:48:47,987 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:48:48,018 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:48:49,480 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:48:54,738 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-20 19:48:55,448 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-20 19:48:55,543 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-03-20 19:48:57,944 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:49:00,649 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:49:00,727 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-03-20 19:49:02,821 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:49:03,115 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-03-20 19:49:05,121 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:49:08,428 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-20 19:49:08,528 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqA1
+2022-03-20 19:49:10,628 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 19:53:08,793 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 19:53:08,833 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 19:53:10,187 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 19:53:16,530 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-20 19:53:17,223 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-20 19:53:17,335 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-03-20 19:53:19,065 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:53:21,811 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:53:21,921 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-03-20 19:53:24,399 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-20 19:53:24,648 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-03-20 19:53:29,892 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-20 19:53:32,200 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-20 19:53:32,489 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqA1
+2022-03-20 19:53:34,765 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:14:38,420 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:14:38,444 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:14:40,061 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:14:44,392 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:14:44,493 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:14:49,291 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:14:49,613 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:17:31,015 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:17:31,041 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:17:32,464 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:17:37,492 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:17:37,595 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:17:42,447 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:17:42,837 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:28:54,895 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:28:54,925 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:28:56,591 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:29:04,168 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:29:04,268 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:29:09,700 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:29:10,075 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:37:14,222 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:37:14,252 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:37:15,713 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:37:20,728 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:37:20,799 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:37:25,643 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:37:25,974 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:45:00,998 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:45:01,025 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:45:02,448 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:45:19,322 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-20 22:45:19,476 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:45:19,606 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:45:26,648 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:45:26,998 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:48:58,491 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:48:58,517 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:48:59,953 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:49:05,117 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-20 22:49:05,298 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:49:05,417 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:49:18,151 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:49:18,437 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:51:06,857 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:51:06,886 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:51:08,420 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:51:12,962 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-20 22:51:13,099 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:51:13,166 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:51:25,997 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:51:26,306 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-20 22:58:45,328 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-20 22:58:45,354 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-20 22:58:46,784 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-20 22:58:51,787 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-20 22:58:51,914 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-20 22:58:52,085 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-20 22:59:03,859 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-20 22:59:04,163 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 10:16:58,102 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-21 10:16:58,146 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-21 10:16:59,827 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-21 10:17:05,370 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 10:17:05,508 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 10:17:05,638 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 10:17:18,203 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 11:50:09,425 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-21 11:50:09,444 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-21 11:50:10,707 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-21 11:50:15,480 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 11:50:15,585 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 11:50:15,631 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 11:50:27,413 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 11:50:27,634 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 11:52:41,375 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-21 11:52:41,401 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-21 11:52:42,583 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-21 11:52:47,092 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 11:52:47,187 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 11:52:47,240 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 11:52:53,670 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 11:52:53,807 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 12:20:39,069 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 99.0.1150.46 (resolved driver for Edge 99)
+2022-03-21 12:20:39,103 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\msedgedriver\win64\99.0.1150.46\msedgedriver.exe
+2022-03-21 12:20:40,820 - com.inetbanking.testcases.BaseClass -INFO - Edge Driver Launched
+2022-03-21 12:20:47,941 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 12:20:48,001 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 12:20:48,048 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 12:20:54,676 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 12:20:54,944 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 12:21:43,272 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 99.0.1150.46 (resolved driver for Edge 99)
+2022-03-21 12:21:43,304 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\msedgedriver\win64\99.0.1150.46\msedgedriver.exe
+2022-03-21 12:21:44,636 - com.inetbanking.testcases.BaseClass -INFO - Edge Driver Launched
+2022-03-21 12:21:49,226 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 12:21:49,288 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 12:21:49,336 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 12:22:00,795 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 12:22:00,881 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-21 12:22:00,929 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-21 12:22:01,030 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-21 12:22:04,105 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-21 12:22:07,438 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-21 12:22:07,756 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 16:12:44,755 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 99.0.1150.46 (resolved driver for Edge 99)
+2022-03-21 16:12:44,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\msedgedriver\win64\99.0.1150.46\msedgedriver.exe
+2022-03-21 16:12:46,512 - com.inetbanking.testcases.BaseClass -INFO - Edge Driver Launched
+2022-03-21 16:12:51,994 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 16:12:52,105 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 16:12:52,227 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 16:13:04,101 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 16:13:04,304 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-21 16:13:04,398 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-21 16:13:04,616 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-21 16:13:07,741 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-21 16:13:11,604 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-21 16:13:12,100 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 16:13:56,938 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 99.0.1150.46 (resolved driver for Edge 99)
+2022-03-21 16:13:56,965 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\msedgedriver\win64\99.0.1150.46\msedgedriver.exe
+2022-03-21 16:13:58,473 - com.inetbanking.testcases.BaseClass -INFO - Edge Driver Launched
+2022-03-21 16:14:04,442 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 16:14:04,603 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 16:14:04,749 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 16:14:16,575 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 16:14:16,751 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-21 16:14:16,863 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-21 16:14:17,101 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-21 16:14:20,231 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-21 16:14:24,443 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-21 16:14:24,999 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 16:16:35,813 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 99.0.1150.46 (resolved driver for Edge 99)
+2022-03-21 16:16:35,841 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\msedgedriver\win64\99.0.1150.46\msedgedriver.exe
+2022-03-21 16:16:37,412 - com.inetbanking.testcases.BaseClass -INFO - Edge Driver Launched
+2022-03-21 16:16:42,118 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 16:16:42,209 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 16:16:42,311 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 16:16:54,152 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 16:16:54,353 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-21 16:16:54,477 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-21 16:16:54,694 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-21 16:16:57,828 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-21 16:17:03,457 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-21 16:17:03,704 - com.inetbanking.testcases.BaseClass -INFO - Screenshot Taken for Failure
+2022-03-21 16:17:04,214 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 16:35:11,097 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-21 16:35:11,122 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-21 16:35:12,894 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-21 16:35:19,166 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-21 16:35:19,358 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-21 16:35:19,477 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-21 16:35:31,222 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-21 16:35:31,401 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-21 16:35:31,510 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-21 16:35:31,740 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-21 16:35:34,864 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-21 16:35:39,080 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-21 16:35:39,480 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-21 16:41:40,881 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-21 16:41:40,914 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-21 16:41:46,800 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 08:09:47,761 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 08:09:47,802 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 08:09:49,786 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 08:09:57,519 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 08:09:57,715 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 08:09:57,846 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 08:10:11,683 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 08:10:11,854 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-22 08:10:11,949 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-22 08:10:12,147 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-22 08:10:15,273 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-22 08:10:21,329 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-22 08:10:21,358 - com.inetbanking.testcases.BaseClass -INFO - Test Case Passed
+2022-03-22 08:10:21,670 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 08:47:43,512 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 08:47:43,540 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 08:47:45,115 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 08:48:04,106 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 08:48:04,241 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 08:48:04,379 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 08:48:17,548 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 08:48:17,727 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-22 08:48:17,844 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-22 08:48:18,073 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-22 08:48:21,202 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-22 08:48:21,328 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer City
+2022-03-22 08:48:21,459 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer State
+2022-03-22 08:48:21,577 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Pin Number
+2022-03-22 08:48:21,698 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Telephone Number
+2022-03-22 08:48:21,948 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Password
+2022-03-22 08:48:30,546 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-22 08:48:30,595 - com.inetbanking.testcases.BaseClass -INFO - Test Case Passed
+2022-03-22 08:48:30,927 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 09:08:45,824 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 09:08:45,851 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 09:08:47,280 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 09:08:53,885 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 09:08:54,015 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 09:08:54,118 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 09:09:05,760 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 09:09:05,936 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-22 09:09:06,045 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-22 09:09:06,258 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-22 09:09:09,380 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-22 09:09:09,500 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer City
+2022-03-22 09:09:09,610 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer State
+2022-03-22 09:09:09,731 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Pin Number
+2022-03-22 09:09:09,842 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Telephone Number
+2022-03-22 09:09:10,087 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Password
+2022-03-22 09:09:15,095 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-22 09:09:15,135 - com.inetbanking.testcases.BaseClass -INFO - Test Case Passed
+2022-03-22 09:09:15,498 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 09:15:52,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 09:15:52,111 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 09:15:53,518 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 09:15:58,926 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 09:15:59,061 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 09:15:59,169 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 09:16:11,010 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 09:16:11,174 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-22 09:16:11,274 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-22 09:16:11,486 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-22 09:16:14,629 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-22 09:16:14,738 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer City
+2022-03-22 09:16:14,843 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer State
+2022-03-22 09:16:14,954 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Pin Number
+2022-03-22 09:16:15,062 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Telephone Number
+2022-03-22 09:16:15,320 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Password
+2022-03-22 09:16:20,266 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-22 09:16:20,294 - com.inetbanking.testcases.BaseClass -INFO - Test Case Passed
+2022-03-22 09:16:20,589 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 09:19:20,779 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 09:19:20,812 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 09:19:22,261 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 09:19:29,041 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 09:19:29,173 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 09:19:29,274 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 09:19:41,652 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 09:19:41,831 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-22 09:19:41,924 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-22 09:19:42,147 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-22 09:19:45,259 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-22 09:19:45,371 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer City
+2022-03-22 09:19:45,495 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer State
+2022-03-22 09:19:45,599 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Pin Number
+2022-03-22 09:19:45,745 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Telephone Number
+2022-03-22 09:19:45,971 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Password
+2022-03-22 09:19:51,055 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-22 09:19:51,084 - com.inetbanking.testcases.BaseClass -INFO - Test Case Passed
+2022-03-22 09:19:51,346 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 09:20:43,743 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 09:20:43,769 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 09:20:45,241 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 09:20:51,672 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 09:20:51,799 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 09:20:51,931 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 09:21:03,646 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 09:21:04,077 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 09:23:47,908 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 09:23:47,937 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 09:23:49,449 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 09:23:56,309 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 09:23:56,449 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 09:23:56,560 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 09:24:09,582 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 09:24:09,747 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Name
+2022-03-22 09:24:09,845 - com.inetbanking.testcases.BaseClass -INFO - Selected Customer Gender
+2022-03-22 09:24:10,073 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer DOB
+2022-03-22 09:24:13,199 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Address
+2022-03-22 09:24:13,310 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer City
+2022-03-22 09:24:13,418 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer State
+2022-03-22 09:24:13,527 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Pin Number
+2022-03-22 09:24:13,644 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Telephone Number
+2022-03-22 09:24:13,890 - com.inetbanking.testcases.BaseClass -INFO - Entered Customer Password
+2022-03-22 09:24:18,988 - com.inetbanking.testcases.BaseClass -INFO - Validation Started...
+2022-03-22 09:24:19,032 - com.inetbanking.testcases.BaseClass -INFO - Test Case Passed
+2022-03-22 09:24:19,321 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 09:30:46,571 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 09:30:46,602 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 09:30:48,069 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 09:30:55,298 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-22 09:30:55,524 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 09:30:55,645 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 09:30:57,424 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-22 09:30:57,657 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 10:32:06,312 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 10:32:06,354 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 10:32:07,975 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 10:32:20,084 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-22 10:32:20,253 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 10:32:20,327 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 10:32:24,864 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-22 10:32:25,124 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 10:51:51,543 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 10:51:51,569 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 10:51:53,471 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 10:52:07,116 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-22 10:52:07,352 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 10:52:07,473 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 10:52:12,165 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-22 10:52:12,476 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 10:52:51,317 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 10:52:51,338 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 10:52:52,911 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 10:53:05,387 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-22 10:53:05,624 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 10:53:05,728 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 10:53:09,038 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-22 10:53:09,294 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 10:53:09,336 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 10:53:09,359 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 10:53:10,177 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 10:53:22,170 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-22 10:53:22,423 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-22 10:53:22,489 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-03-22 10:53:27,121 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-22 10:53:34,560 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-22 10:53:34,840 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-03-22 10:53:39,494 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-22 10:53:39,607 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-03-22 10:53:41,680 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-22 10:53:44,339 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-22 10:53:44,618 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqA1
+2022-03-22 10:53:48,617 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-22 10:53:48,647 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-22 10:53:48,662 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-22 10:53:49,488 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-22 10:53:55,892 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-03-22 10:53:56,004 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-22 10:53:56,112 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-22 10:54:07,866 - com.inetbanking.testcases.BaseClass -INFO - Providing Customer Details...
+2022-03-22 10:54:08,233 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-23 23:32:31,014 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-23 23:32:31,032 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-03-23 23:32:31,988 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/99.0.4844.51/chromedriver_win32.zip
+2022-03-23 23:32:35,456 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file chromedriver_win32.zip
+2022-03-23 23:32:35,555 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-23 23:32:38,669 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-23 23:32:43,134 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-03-23 23:32:43,213 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-03-23 23:32:43,266 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-03-23 23:32:45,478 - com.inetbanking.testcases.BaseClass -INFO - Login successfully
+2022-03-23 23:32:46,098 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-03-23 23:32:46,148 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-03-23 23:32:46,152 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-23 23:32:47,190 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-03-23 23:32:52,102 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-03-23 23:32:52,300 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-23 23:32:52,355 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-03-23 23:32:53,816 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-23 23:32:56,325 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-23 23:32:56,365 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-03-23 23:32:58,269 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-03-23 23:32:58,321 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-03-23 23:32:59,731 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-03-23 23:33:01,822 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-03-23 23:33:01,970 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqA1
+2022-03-23 23:33:04,601 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-04-05 12:11:14,557 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-04-05 12:11:14,593 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\Rajanikanta Kamila\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-04-05 12:11:16,336 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-04-05 12:11:21,691 - com.inetbanking.testcases.BaseClass -INFO - Start Login for Add Cust TC
+2022-04-05 12:11:22,063 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-04-05 12:11:22,197 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-04-05 12:11:28,964 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-04-05 12:11:29,144 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-04-05 12:23:13,097 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-04-05 12:23:13,145 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-04-05 12:23:16,954 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-04-05 12:23:22,837 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-04-05 12:23:23,220 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-04-05 12:23:23,480 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-04-05 12:23:24,833 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-04-05 12:23:24,858 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-04-05 12:23:24,865 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-04-05 12:23:26,022 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-04-05 12:23:31,875 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-04-05 12:23:32,362 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-04-05 12:23:32,498 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-04-05 12:23:36,327 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-04-05 12:23:36,953 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-04-05 12:23:40,024 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-04-05 12:23:40,459 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-04-05 12:23:42,270 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-04-05 12:23:45,438 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-04-05 12:23:45,546 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqA1
+2022-04-05 12:23:48,946 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-04-05 12:24:05,734 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-04-05 12:24:05,752 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-04-05 12:24:09,048 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-04-05 12:24:14,284 - com.inetbanking.testcases.BaseClass -INFO - URL is opening
+2022-04-05 12:24:14,517 - com.inetbanking.testcases.BaseClass -INFO - Entered Username
+2022-04-05 12:24:14,803 - com.inetbanking.testcases.BaseClass -INFO - Entered Password
+2022-04-05 12:24:16,053 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
+2022-04-05 12:24:16,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
+2022-04-05 12:24:16,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-04-05 12:24:17,232 - com.inetbanking.testcases.BaseClass -INFO - Chrome Driver Launched
+2022-04-05 12:24:23,342 - com.inetbanking.testcases.BaseClass -INFO - The total Num of Row :4 and Total Num of Column is: 2
+2022-04-05 12:24:23,840 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-04-05 12:24:23,949 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqAp
+2022-04-05 12:24:26,681 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-04-05 12:24:27,154 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmap1
+2022-04-05 12:24:29,656 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr393456
+2022-04-05 12:24:29,779 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: UgEmapU
+2022-04-05 12:24:31,571 - com.inetbanking.testcases.BaseClass -INFO - Login Passesed
+2022-04-05 12:24:35,737 - com.inetbanking.testcases.BaseClass -INFO - User Name Entered as: mngr391725
+2022-04-05 12:24:36,010 - com.inetbanking.testcases.BaseClass -INFO - Password Entered as: mUvYqA1
+2022-04-05 12:24:39,233 - com.inetbanking.testcases.BaseClass -INFO - Broser Closed Successfully
